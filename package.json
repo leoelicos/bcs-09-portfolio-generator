@@ -1,27 +1,29 @@
 {
-  "name": "bcs-09-portfolio-generator",
-  "version": "1.0.0",
-  "description": "Node.js, fs, inquirer",
-  "main": "index.js",
-  "scripts": {
-    "test": "npm run test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/leoelicos/bcs-09-portfolio-generator.git"
-  },
-  "keywords": [
-    "Node.js",
-    "fs",
-    "inquirer"
-  ],
-  "author": "Leo Wong",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/leoelicos/bcs-09-portfolio-generator/issues"
-  },
-  "homepage": "https://github.com/leoelicos/bcs-09-portfolio-generator#readme",
-  "dependencies": {
-    "inquirer": "^8.2.4"
-  }
+	"name": "bcs-09-portfolio-generator",
+	"version": "1.0.0",
+	"description": "Node.js, fs, inquirer",
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/leoelicos/bcs-09-portfolio-generator.git"
+	},
+	"keywords": [
+		"Node.js",
+		"fs",
+		"inquirer"
+	],
+	"author": "Leo Wong",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/leoelicos/bcs-09-portfolio-generator/issues"
+	},
+	"homepage": "https://github.com/leoelicos/bcs-09-portfolio-generator#readme",
+	"dependencies": {
+		"chalk": "^5.0.1",
+		"inquirer": "^8.2.4"
+	}
 }
