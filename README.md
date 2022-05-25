@@ -30,17 +30,19 @@ I made this app to learn about `Node.js`, `Inquirer`, and template literals.
 
 ## Video Demo
 
+https://user-images.githubusercontent.com/99461390/170214777-bc524565-bfcd-49ea-8d86-f4c38d690cca.mp4
+
 ---
 
 ## Screenshots
 
 ### Screenshot: Command-line prompts
 
-![Screenshot: Command-line prompts]()
+![Screenshot: Command-line prompts](https://user-images.githubusercontent.com/99461390/170212137-7ee1bec4-9dd3-4005-b2e9-f732cf1d47a8.jpg)
 
 ### Screenshot: Generated Page
 
-![Screenshot: Generated Page]()
+![Screenshot: Generated Page](https://user-images.githubusercontent.com/99461390/170215004-3a8d9722-5400-43a5-9154-2a4596c447a4.jpg)
 
 ## Credits
 
