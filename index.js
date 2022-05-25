@@ -59,14 +59,14 @@ const questions = [
 		type: 'input',
 		name: 'github',
 		prefix: ' What is your',
-		message: chalk.rgb(181, 234, 215)('GitHub username'),
+		message: chalk.rgb(181, 234, 215)('GitHub handle'),
 		suffix: '?'
 	},
 	{
 		type: 'input',
 		name: 'linkedin',
 		prefix: ' What is your',
-		message: chalk.rgb(199, 206, 234)('LinkedIn URL'),
+		message: chalk.rgb(199, 206, 234)('LinkedIn handle'),
 		suffix: '?'
 	}
 ];
